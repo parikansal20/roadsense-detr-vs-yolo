@@ -1,0 +1,34 @@
+datasets/
+runs/
+output/
+weights/
+*.pt
+*.pth
+*.onnx
+__pycache__/
+.ipynb_checkpoints/
+.env
+
+# Python environments and cache
+venv/
+env/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Model and experiment outputs
+*.safetensors
+*.engine
+*.log
+
+# macOS files
+.DS_Store
+
+# Generated benchmark outputs
+results/*.csv

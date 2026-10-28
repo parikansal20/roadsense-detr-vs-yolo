@@ -1,0 +1,9 @@
+rfdetr[train]
+ultralytics
+roboflow
+supervision
+streamlit
+opencv-python-headless
+pandas
+pillow
+tabulate
